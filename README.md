@@ -8,5 +8,5 @@
 - 📫 How to reach me: <marangmutloatse@gmail.com>, <marang.mutloatse@student.ie.edu> and [here](https://www.linkedin.com/in/marangmutloatse/)
 - ⚡ Fun fact: **But what if we're wrong?**
 
-![Marang's github stats](https://github-readme-stats.vercel.app/api?username=maz2198&show_icons=true&theme=radical)
+![Marang's github stats](https://github-readme-stats.vercel.app/api?username=maz2198&count_private=true&show_icons=true&theme=radical)
 
