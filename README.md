@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maz2198&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Checkout my website [here](https://marangmutloatse.super.site/)
+Checkout my website [https://marangmutloatse.super.site/](https://marangmutloatse.super.site/)
